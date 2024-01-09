@@ -15,7 +15,8 @@ There are three types of machine learning approaches which are generally recogni
 
 # Supervised Learning
 The computer is provided with a set of example inputs and their associated outputs and the goal is to learn a rule which maps inputs to outputs.[4]
-  Examples: 
+
+Examples: 
     Regression
       Predict a numerical output based on a set of inputs.
       Example: Predict the price of a house given its location, the year it was built, the size of home (in square feet or square meters), the size of the lot (if applicable), etc.
@@ -26,7 +27,8 @@ The computer is provided with a set of example inputs and their associated outpu
 
 # Unsupervised Learning
 An algorithm is provided with an unlabeled set of data points and asked to find underlying structure or patterns in the data.
-  Examples:
+
+Examples:
     Clustering
       Determine a grouping of objects such that objects within the group are more similar than those objects in other groups.
       Example: Anomaly detection (find data points which don’t align with the general trend of historical data)
@@ -35,7 +37,8 @@ An algorithm is provided with an unlabeled set of data points and asked to find 
 
 # Reinforcement Learning
 An agent interacts with an environment in which it seeks to achieve some goal. As the agent gains more experience, it learns to maximize observed rewards.
-  Examples:
+
+Examples:
     Self-driving vehicles learn via simulated (and, later, real-world) experience to navigate safely from a starting point to a destination.
     Compute agents (or bots) which learn based on self-play to achieve superhuman performance in video and bored games.
 
