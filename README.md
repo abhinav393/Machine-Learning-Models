@@ -19,7 +19,6 @@ The computer is provided with a set of example inputs and their associated outpu
     Regression
       Predict a numerical output based on a set of inputs.
       Example: Predict the price of a house given its location, the year it was built, the size of home (in square feet or square meters), the size of the lot (if applicable), etc.
-    
     Classification
       Predict an output label based on a set of inputs.
       Example: Given a picture of an animal, determine its species.
